@@ -1,4 +1,4 @@
-package de.neuefische.covidapi.Controller;
+package de.neuefische.covidapi.controller;
 
 import de.neuefische.covidapi.Service.CovidService;
 import de.neuefische.covidapi.model.ActiveCases;
